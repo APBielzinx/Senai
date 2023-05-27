@@ -3,7 +3,6 @@ body{
 }
 
 nav{
-  
     padding-right: 3px;
     height: 149px;
     background-color: #3D3C3B;
@@ -13,11 +12,13 @@ nav:hover{
 }
 
 nav > figure{
+    margin-top: 0px;
+    margin-right: 400px;
     display: inline-block;
 }
 
 nav > figure > img{
-    height: 50%;
+    height: 200px;
     vertical-align: middle;
 }
 nav > h2{
@@ -32,4 +33,12 @@ nav > h2 > a{
 }
 nav > h2 > a:hover{
   color: #487aa1 ; 
+}
+
+.agendamento{
+    border-radius: 10px;
+    background-color: #7C8071;
+    margin-left: 317px;
+    text-align: right;
+    border: 10px solid #7C8071;
 }
