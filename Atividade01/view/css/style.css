@@ -1,47 +1,51 @@
-body{
+body {
     background-color: #3D3C3B;
-    
+
 }
 
-nav{
+nav {
     padding-right: 3px;
     height: 149px;
     background-color: #3D3C3B;
 }
-nav:hover{
-   background-color: #333231;
+
+nav:hover {
+    background-color: #333231;
 }
 
-nav > figure{
+nav>figure {
     margin-top: 0px;
     margin-right: 400px;
     display: inline-block;
 }
 
-nav > figure > img{
+nav>figure>a>img {
     height: 200px;
     vertical-align: middle;
 }
-nav > h2{
+
+nav>h2 {
     margin-top: 50px;
     display: inline-block;
-  
+
 }
-nav > h2 > a{
+
+nav>h2>a {
     color: #DDE3CA;
     margin-right: 56px;
     text-align: center;
     text-decoration: none;
 }
-nav > h2 > a:hover{
-  color: #487aa1 ; 
+
+nav>h2>a:hover {
+    color: #487aa1;
 }
 
-.agendamento{
+.agendamento {
     border-radius: 10px;
     background-color: #7C8071;
-    margin-left: 93px;
-        text-align: right;
+    margin-left: 65px;
+    text-align: right;
     border: 10px solid #7C8071;
 }
 
