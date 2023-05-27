@@ -6,7 +6,7 @@ body {
 nav {
     padding-right: 3px;
     height: 149px;
-    background-color: #3D3C3B;
+    background-color: #4B4A49;
 }
 
 nav:hover {
@@ -49,15 +49,20 @@ nav>h2>a:hover {
     border: 10px solid #7C8071;
 }
 
-/* ESTiLIZAÇÕES DO MAIN*/
+/* ESTiLIZAÇÕES da Primeira e Segunda sesão*/
 
 
 section{
     margin-top: auto;
 }
 .cincoEstrelas{
-    border: 20px solid black;
+    display: inline-block;
+    background-color: #444342;
+    border: 10px solid black;
     border-radius: 97px;
+    text-align: center;
+    margin: 220px 0 0 537px;
+    padding: 54px 173px 28px 164px;
 }
 
 .logoDoMain{
@@ -100,7 +105,7 @@ section{
 }
 
 .iconsText>h3{
-    margin-left: 415px;
+    margin-left: 431px;
     display: inline-block;
   
 }
