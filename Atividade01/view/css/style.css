@@ -1,16 +1,11 @@
 body {
     background-color: #3D3C3B;
-
 }
 
 nav {
     padding-right: 3px;
     height: 149px;
     background-color: #4B4A49;
-}
-
-nav:hover {
-    background-color: #333231;
 }
 
 nav>figure {
@@ -20,6 +15,7 @@ nav>figure {
 }
 
 nav>figure>a>img {
+    margin: 8px 96px;
     height: 127px;
     vertical-align: middle;
 }
@@ -27,7 +23,8 @@ nav>figure>a>img {
 nav>h2 {
     margin-top: 50px;
     display: inline-block;
-
+    font-size: 18px;
+    text-transform: uppercase;
 }
 
 nav>h2>a {
@@ -44,25 +41,75 @@ nav>h2>a:hover {
 .agendamento {
     border-radius: 10px;
     background-color: #7C8071;
-    margin-left: 65px;
+    margin-left: 84px;
     text-align: right;
     border: 10px solid #7C8071;
 }
 
+.agendamento:hover{
+    scale: 0.8;
+}
+
 /* ESTiLIZAÇÕES da Primeira e Segunda sesão*/
 
-
-section{
-    margin-top: auto;
+.fundoPrincipal{
+    width: 119em;
 }
-.cincoEstrelas{
-    display: inline-block;
-    background-color: #444342;
-    border: 10px solid black;
-    border-radius: 97px;
+
+.fundoPrincipal:hover{
+    opacity: 0.9;
+}
+
+.logoNaImagemPrincipal{
+    position: absolute;
+    width: 444px;
+    height: 313px;
+    left: 703px;
+    top: 314px;
+}
+
+.logoNaImagemPrincipal:hover{
+    opacity: 0.9;
+}
+
+.fundoSecundario{
+    width: 119em;
+}
+
+.sobre{
+    position: absolute;
+    width: 575px;
+    height: 100px;
+    left: 748px;
+    top: 1080px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
     text-align: center;
-    margin: 220px 0 0 537px;
-    padding: 54px 173px 28px 164px;
+    letter-spacing: 0.17em;
+
+    color: #FFFFFF;
+}
+
+.textoSobre{
+    position: absolute;
+    width: 756px;
+    height: 578px;
+    left: 672px;
+    top: 1180px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 0.17em;
+
+    color: #FFFFFF;
 }
 
 
