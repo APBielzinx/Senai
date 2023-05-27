@@ -2,6 +2,7 @@ body {
     background-color: #3D3C3B;
 }
 
+
 nav {
     padding-right: 3px;
     height: 149px;
@@ -21,6 +22,7 @@ nav>figure>a>img {
 }
 
 nav>h2 {
+    font-size: xx-large;
     margin-top: 50px;
     display: inline-block;
     font-size: 18px;
@@ -29,7 +31,7 @@ nav>h2 {
 
 nav>h2>a {
     color: #DDE3CA;
-    margin-right: 56px;
+    margin-right: 53px;
     text-align: center;
     text-decoration: none;
 }
@@ -112,7 +114,50 @@ nav>h2>a:hover {
     color: #FFFFFF;
 }
 
+.logoDoMain{
+    padding: ;
+}
 
 
 
-/*estilização da terceira sesao*/
+/*Serviços*/
+
+.servicos>h1{
+    margin: 100px;
+    color: #DDE3CA;
+    margin-right: 56px;
+    text-align: center;
+    text-decoration: none;
+    font-size: xxx-large;
+}
+
+
+.circulo {
+    display: inline-block;
+    background: white;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 416px;
+    text-align: center;
+}
+
+.circulo>img{
+    margin-top: 10px;
+    width: 77px;
+
+}
+
+.servicos>h3{
+    display: inline-block;
+    padding-top: 10px;
+
+}
+
+.iconsText>h3{
+    margin-top: 10px;
+    margin-left: 402px;
+    display: inline-block;
+    font-size: x-large;
+  
+}
