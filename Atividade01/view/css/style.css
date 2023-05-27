@@ -3,6 +3,7 @@ body {
 
 }
 
+
 nav {
     padding-right: 3px;
     height: 149px;
@@ -25,6 +26,7 @@ nav>figure>a>img {
 }
 
 nav>h2 {
+    font-size: xx-large;
     margin-top: 50px;
     display: inline-block;
 
@@ -32,7 +34,7 @@ nav>h2 {
 
 nav>h2>a {
     color: #DDE3CA;
-    margin-right: 56px;
+    margin-right: 53px;
     text-align: center;
     text-decoration: none;
 }
@@ -79,6 +81,7 @@ section{
     margin-right: 56px;
     text-align: center;
     text-decoration: none;
+    font-size: xxx-large;
 }
 
 
@@ -105,7 +108,9 @@ section{
 }
 
 .iconsText>h3{
-    margin-left: 431px;
+    margin-top: 10px;
+    margin-left: 402px;
     display: inline-block;
+    font-size: x-large;
   
 }
