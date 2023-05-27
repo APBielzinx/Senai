@@ -1,0 +1,7 @@
+Em grupo, limite 4 alunos
+Desenvolver uma página web, utilizando todos os conceitos aprendidos no curso, até o momento.
+Utilizar o Trello, para as divisões das tarefas e compartilhar email:
+Tema:livre
+Importante esolher uma paleta de core
+Desenvolver as artes através do software GIMP
+Contexto dapágina deve ser autoral, não pode ser cópia de outro site.
