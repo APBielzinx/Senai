@@ -114,13 +114,12 @@ nav>h2>a:hover {
     color: #FFFFFF;
 }
 
-.logoDoMain{
-    padding: ;
-}
-
-
-
 /*Serviços*/
+
+.servicos{
+    margin-top: 0px;
+    background-color: #3D3C3B;
+}
 
 .servicos>h1{
     margin: 100px;
