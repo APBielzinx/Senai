@@ -63,3 +63,44 @@ section{
 .logoDoMain{
     padding: ;
 }
+
+
+
+/*Serviços*/
+
+.servicos>h1{
+    margin: 100px;
+    color: #DDE3CA;
+    margin-right: 56px;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.circulo {
+    display: inline-block;
+    background: white;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 416px;
+    text-align: center;
+}
+
+.circulo>img{
+    margin-top: 10px;
+    width: 77px;
+
+}
+
+.servicos>h3{
+    display: inline-block;
+    padding-top: 10px;
+
+}
+
+.iconsText>h3{
+    margin-left: 415px;
+    display: inline-block;
+  
+}
