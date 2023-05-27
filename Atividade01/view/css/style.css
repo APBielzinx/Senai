@@ -1,0 +1,35 @@
+body{
+    background-color: #3D3C3B;
+}
+
+nav{
+  
+    padding-right: 3px;
+    height: 149px;
+    background-color: #3D3C3B;
+}
+nav:hover{
+   background-color: #333231;
+}
+
+nav > figure{
+    display: inline-block;
+}
+
+nav > figure > img{
+    height: 50%;
+    vertical-align: middle;
+}
+nav > h2{
+    margin-top: 50px;
+    display: inline-block;
+  
+}
+nav > h2 > a{
+    color: #DDE3CA;
+    margin-right: 10px;
+    text-align: center;
+}
+nav > h2 > a:hover{
+  color: #487aa1 ; 
+}
