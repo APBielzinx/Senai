@@ -52,7 +52,7 @@ nav>h2>a:hover {
     border: 10px solid #7C8071;
 }
 
-/* ESTiLIZAÇÕES da Primeira e Segunda sesão*/
+/* ESTiLIZAÇÕES da Primeira e Segunda sessão*/
 
 .fundoPrincipal{
     width: 119em;
@@ -210,5 +210,11 @@ nav>h2>a:hover {
 
 .pomadaBarbaValor{
     padding-left: 206px;
+}
+
+               /* RODAPÉ    */
+
+footer{
+    display: inline;
 }
 
