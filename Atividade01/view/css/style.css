@@ -124,14 +124,14 @@ nav>h2>a:hover {
     color: #DDE3CA;
     margin-right: 56px;
     text-align: center;
-    text-decoration: none;
-    font-size: ;
+    font-size: 30px;
+    text-transform: uppercase;
 }
 
 
 .circulo {
     display: inline-block;
-    background: white;
+    background: #d9d3d3;
     border-radius: 50%;
     width: 100px;
     height: 100px;
@@ -158,3 +158,23 @@ nav>h2>a:hover {
     font-size: x-large;
   
 }
+
+.produtos{
+    background-color: #7C8071;
+}
+.produtos > h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 124px 15px 55px 0 ;
+    padding-left: 858px;
+    padding-top: 50px;
+}
+
+.produtos > p{
+    padding-top: 15px;
+    padding-left: 770px;
+}
+
+
+
+
