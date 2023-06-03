@@ -173,8 +173,22 @@ nav>h2>a:hover {
 .produtos > p{
     padding-top: 15px;
     padding-left: 770px;
+    padding-bottom: 50px;
 }
 
+.comboShampoBarba, .shampoBarba, .pomadaModeladora{
+    display: inline-block;
+}
 
+.comboShampoBarba > ul, .shampoBarba > ul, .pomadaModeladora > ul{
+    margin-right: 160px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+
+.comboShampoBarba > p {
+    font-size: 50px;
+}
 
 
