@@ -1,5 +1,6 @@
 body {
     background-color: #3D3C3B;
+
 }
 
 
@@ -205,7 +206,8 @@ nav>h2>a:hover {
 
 .comboShampoBarba > ul > li > button>a{
     color: white;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
     }
 
     
@@ -230,6 +232,7 @@ nav>h2>a:hover {
 }
 .pomadaModeladora > ul > li > button>a{
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
     }
 
@@ -254,6 +257,7 @@ nav>h2>a:hover {
 
 .shampoBarba > ul > li > button>a{
 color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
