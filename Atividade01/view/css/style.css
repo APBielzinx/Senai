@@ -4,10 +4,13 @@ body {
 
 
 nav {
+
     padding-right: 3px;
     height: 149px;
     background-color: #4B4A49;
-   
+    position: fixed;
+    width: 1900px;
+    z-index: 1;
 }
 
 nav>figure {
@@ -55,9 +58,6 @@ nav>h2>a:hover {
     width: 119em;
 }
 
-.fundoPrincipal:hover{
-    opacity: 0.9;
-}
 
 .logoNaImagemPrincipal{
     position: absolute;
@@ -67,9 +67,6 @@ nav>h2>a:hover {
     top: 314px;
 }
 
-.logoNaImagemPrincipal:hover{
-    opacity: 0.9;
-}
 
 .fundoSecundario{
     width: 119em;
