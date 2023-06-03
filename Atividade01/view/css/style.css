@@ -183,6 +183,7 @@ nav>h2>a:hover {
     color: #DDE3CA;
 }
 
+
 .comboShampoBarba > ul, .shampoBarba > ul, .pomadaModeladora > ul{
     margin-right: 160px;
     border: 2px solid black;
@@ -199,6 +200,8 @@ nav>h2>a:hover {
     width: 150px;
     margin-top: 10px;
 }
+
+
 
 .comboShampoBarba > ul > li > button>a{
     color: white;
@@ -247,6 +250,7 @@ nav>h2>a:hover {
     margin-top: 10px;
 
 }
+
 
 .shampoBarba > ul > li > button>a{
 color: white;
