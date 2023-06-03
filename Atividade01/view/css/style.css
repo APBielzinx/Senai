@@ -170,7 +170,7 @@ nav>h2>a:hover {
     padding-top: 50px;
 }
 
-.produtos > p{
+.produtos > p {
     padding-top: 15px;
     padding-left: 770px;
     padding-bottom: 50px;
@@ -187,8 +187,8 @@ nav>h2>a:hover {
     text-transform: uppercase;
 }
 
-.comboShampoBarba > p {
-    font-size: 50px;
+.comboShampoBarba > p, .shampoBarba > p, .pomadaModeladora > p{
+    font-size: 500px;
 }
 
 
