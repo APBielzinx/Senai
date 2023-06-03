@@ -123,6 +123,7 @@ nav>h2>a:hover {
     text-align: center;
     font-size: 30px;
     text-transform: uppercase;
+    text-shadow: 5px 5px 6px black;
 }
 
 
@@ -134,11 +135,13 @@ nav>h2>a:hover {
     height: 100px;
     margin-left: 416px;
     text-align: center;
+    box-shadow: 7px 7px 6px black;
 }
 
 .circulo>img{
     margin-top: 10px;
     width: 77px;
+    
 
 }
 
@@ -165,6 +168,7 @@ nav>h2>a:hover {
     margin: 124px 15px 55px 0 ;
     padding-left: 858px;
     padding-top: 50px;
+    text-shadow: 2px 2px 11px black;
 }
 
 .produtos > p {
@@ -184,8 +188,27 @@ nav>h2>a:hover {
     text-transform: uppercase;
 }
 
-.comboShampoBarba > p, .shampoBarba > p, .pomadaModeladora > p{
-    font-size: 500px;
+.comboBarba{
+    padding-left: 50px;
 }
 
+.shampoParaBarba{
+    padding-left: 144px;
+}
+
+.pomadaParaBarba{
+    padding-left: 90px;
+}
+
+.comboValor{
+    padding-left: 209px;
+}
+
+.shampoBarbaValor{
+    padding-left: 210px;
+}
+
+.pomadaBarbaValor{
+    padding-left: 206px;
+}
 
