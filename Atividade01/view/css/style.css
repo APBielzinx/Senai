@@ -290,6 +290,17 @@ color: white;
                /* RODAPÉ    */
 
 footer{
-    display: inline;
+    display: grid;
+}
+
+footer > img{
+    padding-left: 351px;
+    padding-top: 60px;
+}
+
+footer > p{
+    font-size: 20px;
+    display: ;
+    padding-left: 365px;
 }
 
