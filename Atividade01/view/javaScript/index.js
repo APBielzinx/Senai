@@ -1,12 +1,11 @@
-function zoomin(){
-
-var GFG = document.getElementById("geeks");
-var currWidth = GFG.clientWidth;
-GFG.style.width = (currWidth + 100) + "px";
+function darZoom(){
+    var darZoom = document.getElementById("zoom");
+    darZoom.style.fontSize = "37px"
+    
 }
 
-function zoomout() {
-var GFG = document.getElementById("geeks");
-var currWidth = GFG.clientWidth;
-GFG.style.width = (currWidth - 100) + "px";
+function diminuirZoom() {
+    var diminuirZoom = document.getElementById("zoom");
+    diminuirZoom.style.fontSize = "20px"
 }
+

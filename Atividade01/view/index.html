@@ -20,6 +20,7 @@
             <h2><a href="#Servicos">Serviços</a></h2>
             <h2><a href="#Produtos">Produtos</a></h2>
             <h2><a href="https://wa.me/5511941798003?text=olá%20Desejo%20Agendar%20um%20horario" class="agendamento">Agendamento Online</a></h2>
+            
         </nav>
     </header>
 
@@ -30,10 +31,13 @@
             </section>
 
             <section id="Sobre"> <!--Segunda sessão com texto sobre a barbearia-->
+                <button type="button"  onclick="darZoom()">Click para dar zoom</button>
+                <button type="button"  onclick="diminuirZoom()">Click para diminuir o zoom</button>
+
                 <img class="fundoSecundario" src="./img/ImagemDeFundoSobre.png" alt="Img de fundo">
                 <div class="divisãoDeTextos">
                     <h1 class="sobre">sobre</h1>
-                    <p class="textoSobre">A Barber Shop, tem tudo que você procura. Um ambiente calmo,tranzendo conforto,e eficiencia,
+                    <p class="textoSobre" id="zoom" >A Barber Shop, tem tudo que você procura. Um ambiente calmo,tranzendo conforto,e eficiencia,
                         atendimento de primeira.
                         Agende o seu horário pelo Whatsapp: 55 11 9 41798-003, ou venha nos fazer uma visita!Estamos localizados na Rua Gandavo, número 255 SP.
                         venha fazer estilo e historia conosco!
@@ -81,6 +85,7 @@
 
             <section class="produtos" id="Produtos">
 
+                
                 <h1>Nossos Produtos</h1>
                 <p>CONFIRA OS PRODUTOS QUE SELECIONAMOS PARA VOCÊ</p>
 
@@ -111,18 +116,19 @@
                         <li><p class="pomadaParaBarba">Pomada modeladora de barba</p></li>
                         <li><img src="./img/modeladoraBarba.svg" alt="imagem de pomada modeladora para barba"></li>
                         <li><p class="pomadaBarbaValor">Preço: R$41,90</p>
-                            <button><a href="https://www.magazineluiza.com.br/modelador-de-barba-65g-barba-de-respeito/p/ck1ddd3bg2/pf/blbr/">Comprar</a></button>
+                            <button onclick=""><a href="https://www.magazineluiza.com.br/modelador-de-barba-65g-barba-de-respeito/p/ck1ddd3bg2/pf/blbr/">Comprar</a></button>
                         </li>
                     </ul>
                </div>
-                
             </section>
+
     
          
-        
     </main>
  
     <footer>
+        <button id="darZoom"  onclick="darZoom()">Click para dar zoom</button>
+        <button id="diminuirZoom"  onclick="diminuirZoom()">Click para diminuir o zoom</button>
         <img src="./img/logo.png" alt="logo da página no rodapé">
         <p>Barbearia Barber Shop. &copy; Todos os direitos reservados </p>
     </footer>
