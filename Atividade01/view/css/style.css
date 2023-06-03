@@ -190,16 +190,47 @@ nav>h2>a:hover {
     text-transform: uppercase;
 }
 
+.comboShampoBarba > ul > li > button{
+
+    background-color: #487aa1;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 210px;
+    width: 100px;
+}
+
+.pomadaModeladora > ul > li > button{
+
+    background-color: #487aa1;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 210px;
+    width: 100px;
+}
+
+.shampoBarba > ul > li > button{
+
+    background-color: #487aa1;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 210px;
+    width: 100px;
+}
+
+
 .comboBarba{
     padding-left: 50px;
+    padding-top: 30px;
 }
 
 .shampoParaBarba{
     padding-left: 144px;
+    padding-top: 30px;
 }
 
 .pomadaParaBarba{
     padding-left: 90px;
+    padding-top: 30px;
 }
 
 .comboValor{
