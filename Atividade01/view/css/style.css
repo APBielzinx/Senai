@@ -165,6 +165,7 @@ nav>h2>a:hover {
     margin: 124px 15px 55px 0 ;
     padding-left: 858px;
     padding-top: 50px;
+    color: #DDE3CA;
 }
 
 .produtos > p{
@@ -175,6 +176,7 @@ nav>h2>a:hover {
 
 .comboShampoBarba, .shampoBarba, .pomadaModeladora{
     display: inline-block;
+    color: #DDE3CA;
 }
 
 .comboShampoBarba > ul, .shampoBarba > ul, .pomadaModeladora > ul{
