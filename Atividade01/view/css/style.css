@@ -192,31 +192,73 @@ nav>h2>a:hover {
 
 .comboShampoBarba > ul > li > button{
 
-    background-color: #487aa1;
+    background-color: black;
     border: 2px solid black;
     border-radius: 5px;
     margin-left: 210px;
-    width: 100px;
+    width: 150px;
+    margin-top: 10px;
 }
+
+.comboShampoBarba > ul > li > button>a{
+    color: white;
+    
+    }
+
+    
+.comboShampoBarba > ul > li > button:hover{
+
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(36,36,38,1) 5%, rgba(255,0,0,1) 70%);
+
+}
+
+
 
 .pomadaModeladora > ul > li > button{
 
-    background-color: #487aa1;
-    border: 2px solid black;
+    background-color: black;
+        border: 2px solid black;
     border-radius: 5px;
     margin-left: 210px;
-    width: 100px;
+    width: 150px;
+    margin-top: 10px;
+
 }
+.pomadaModeladora > ul > li > button>a{
+    color: white;
+    
+    }
+
+    .pomadaModeladora > ul > li > button:hover{
+
+        background: rgb(2,0,36);
+        background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(36,36,38,1) 5%, rgba(255,0,0,1) 70%);
+    
+    }
 
 .shampoBarba > ul > li > button{
 
-    background-color: #487aa1;
+    background-color: black;
     border: 2px solid black;
     border-radius: 5px;
     margin-left: 210px;
-    width: 100px;
+    width: 150px;
+    margin-top: 10px;
+
 }
 
+.shampoBarba > ul > li > button>a{
+color: white;
+
+}
+
+.shampoBarba > ul > li > button:hover{
+
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(36,36,38,1) 5%, rgba(255,0,0,1) 70%);
+
+}
 
 .comboBarba{
     padding-left: 50px;
